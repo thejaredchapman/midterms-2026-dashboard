@@ -36,7 +36,7 @@ ${byBias('right')}`;
     headers: { 'content-type': 'application/json', 'x-api-key': apiKey, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({ model: MODEL, max_tokens: 700, system: SYSTEM, messages: [{ role: 'user', content: prompt }] }),
   });
-  if (r.status === 401) throw new Error('Anthropic rejected ANTHROPIC_API_KEY (invalid or incomplete). Create a new key at console.anthropic.com, paste the whole value into .env, and restart npm run dev.');
+  if (r.status === 401) throw new Error('Anthropic rejected ANTHROPIC_API_KEY (invalid or incomplete). Create a new key at console.anthropic.com and paste the whole value into ANTHROPIC_API_KEY (.env locally, or Environment Variables on Vercel), then restart the dev server / redeploy.');
   if (!r.ok) throw new Error(`Anthropic API ${r.status}: ${(await r.text()).slice(0, 200)}`);
   const data = await r.json();
   const text = data.content?.[0]?.text ?? '';
