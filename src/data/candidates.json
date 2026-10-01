@@ -1,0 +1,2068 @@
+[
+  {
+    "office": "Senate",
+    "epstein": "Senate passed the Epstein Files Transparency Act by unanimous consent (Nov 2025).",
+    "id": "collins",
+    "name": "Susan Collins",
+    "wiki": "Susan_Collins",
+    "state": "ME",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Maine",
+    "rating": "Toss-up",
+    "trump": null,
+    "iran": "Voted YES on Democratic war-powers resolutions to end the Iran war (Jun 24: passed 50-48; Sep 24: failed 49-50).",
+    "distancing": "Yes — skipping Trump's midterm convention; has repeatedly broken with him on war powers and OBBB.",
+    "polling": "Cook: Toss-up; Lean D in several models (Economist, Silver, Split Ticket).",
+    "sources": [
+      {
+        "label": "Senate Iran war-powers votes (Jun 24 & Sep 24, 2026)",
+        "url": "https://thehill.com/homenews/senate/5876248-senate-vote-war-powers-iran/"
+      },
+      {
+        "label": "Republicans distancing from Trump (Sep 2026)",
+        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/22/republican-candidates-distance-themselves-from-trump-before-midterms"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "C001035",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/C001035.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Senator_Susan_Collins_2014_official_portrait_%281%29.jpg/330px-Senator_Susan_Collins_2014_official_portrait_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.collins.senate.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Susan_Collins",
+    "ballotpedia": "https://ballotpedia.org/Susan_Collins",
+    "twitter": "SenatorCollins",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "jackson-me",
+    "name": "Troy Jackson",
+    "wiki": "Troy_Jackson",
+    "state": "ME",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Maine",
+    "rating": "Toss-up",
+    "trump": false,
+    "polling": "Replaced Graham Platner as nominee at the Jul 25 convention after Platner withdrew Jul 10.",
+    "sources": [
+      {
+        "label": "Troy Jackson replaces Platner (NPR)",
+        "url": "https://www.npr.org/2026/07/26/nx-s1-5906372/troy-jackson-replaces-graham-platner-as-democratic-candidate-in-maines-senate-race"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg/330px-Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg/330px-Troy_Jackson_in_the_Senate_Chamber_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.jacksonformaine.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Troy_Jackson",
+    "ballotpedia": "https://ballotpedia.org/Troy_Jackson",
+    "twitter": "TroyJackson207",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Senate passed the Epstein Files Transparency Act by unanimous consent (Nov 2025).",
+    "id": "sullivan",
+    "name": "Dan Sullivan",
+    "wiki": "Dan_Sullivan_(U.S._senator)",
+    "state": "AK",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Alaska",
+    "rating": "Toss-up",
+    "trump": null,
+    "iran": "Voted NO on the Sep 24 war-powers resolution (only Paul, Collins, Murkowski, Tillis crossed over).",
+    "polling": "Cook/Sabato/IE: Toss-up; Lean D in Silver Bulletin, DDHQ, Economist.",
+    "sources": [
+      {
+        "label": "Senate Iran war-powers votes (Jun 24 & Sep 24, 2026)",
+        "url": "https://thehill.com/homenews/senate/5876248-senate-vote-war-powers-iran/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": "S001198",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/S001198.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Senator_Dan_Sullivan_official.jpg/330px-Senator_Dan_Sullivan_official.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.sullivan.senate.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+    "ballotpedia": "https://ballotpedia.org/Dan_Sullivan",
+    "twitter": "SenDanSullivan",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "peltola",
+    "name": "Mary Peltola",
+    "wiki": "Mary_Peltola",
+    "state": "AK",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Alaska",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/330px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/330px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.marypeltola.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mary_Peltola",
+    "ballotpedia": "https://ballotpedia.org/Mary_Peltola",
+    "twitter": "MaryPeltola",
+    "bluesky": "marypeltola.com",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House, 427-1).",
+    "id": "hinson",
+    "name": "Ashley Hinson",
+    "wiki": "Ashley_Hinson",
+    "state": "IA",
+    "party": "R",
+    "status": "Open-seat nominee (current U.S. Rep.)",
+    "race": "Iowa",
+    "rating": "Toss-up",
+    "trump": true,
+    "iran": "No war-powers vote on record in sources found; says Iowans \"shouldn't have to foot the bill at the pump… for the war in Iran.\"",
+    "distancing": "Partial — criticizes war's cost at the pump while remaining Trump-endorsed.",
+    "polling": "Toss-up (Cook, Sabato, IE, DDHQ); Lean D at Split Ticket.",
+    "sources": [
+      {
+        "label": "Republicans distancing from Trump (Sep 2026)",
+        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/22/republican-candidates-distance-themselves-from-trump-before-midterms"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": "H001091",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/H001091.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Congresswoman_Ashley_Hinson_Official_portrait.jpg/330px-Congresswoman_Ashley_Hinson_Official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://hinson.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ashley_Hinson",
+    "ballotpedia": "https://ballotpedia.org/Ashley_Hinson",
+    "twitter": "RepAshleyHinson",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "turek",
+    "name": "Josh Turek",
+    "wiki": "Josh_Turek",
+    "state": "IA",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Iowa",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Joshua_Turek_%28cropped_2%29.jpg/330px-Joshua_Turek_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Joshua_Turek_%28cropped_2%29.jpg/330px-Joshua_Turek_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://turek4iowa.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Josh_Turek",
+    "ballotpedia": "https://ballotpedia.org/Josh_Turek",
+    "twitter": "Turek4Iowa",
+    "bluesky": "joshturek4iowa.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Senate passed the Epstein Files Transparency Act by unanimous consent (Nov 2025).",
+    "id": "husted",
+    "name": "Jon Husted",
+    "wiki": "Jon_Husted",
+    "state": "OH",
+    "party": "R",
+    "status": "Incumbent (appointed)",
+    "race": "Ohio (special)",
+    "rating": "Toss-up",
+    "trump": true,
+    "iran": "Voted NO on the Sep 24 war-powers resolution.",
+    "polling": "Toss-up (Cook, Sabato, IE); Lean D at Silver Bulletin and Economist.",
+    "sources": [
+      {
+        "label": "Senate Iran war-powers votes (Jun 24 & Sep 24, 2026)",
+        "url": "https://thehill.com/homenews/senate/5876248-senate-vote-war-powers-iran/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "H001104",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/H001104.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Sen._Jon_Husted_official_portrait%2C_119th_Congress.jpg/330px-Sen._Jon_Husted_official_portrait%2C_119th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.husted.senate.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jon_Husted",
+    "ballotpedia": "https://ballotpedia.org/Jon_Husted",
+    "twitter": "JonHusted",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "brown",
+    "name": "Sherrod Brown",
+    "wiki": "Sherrod_Brown",
+    "state": "OH",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Ohio (special)",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sherrod_Brown_117th_Congress_%282%29.jpg/330px-Sherrod_Brown_117th_Congress_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sherrod_Brown_117th_Congress_%282%29.jpg/330px-Sherrod_Brown_117th_Congress_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.sherrodbrown.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sherrod_Brown",
+    "ballotpedia": "https://ballotpedia.org/Sherrod_Brown",
+    "twitter": "SherrodBrown",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "paxton",
+    "name": "Ken Paxton",
+    "wiki": "Ken_Paxton",
+    "state": "TX",
+    "party": "R",
+    "status": "Open-seat nominee (Texas AG)",
+    "race": "Texas",
+    "rating": "Toss-up",
+    "trump": true,
+    "antiDei": true,
+    "distancing": "No — won the runoff over Sen. Cornyn with Trump's endorsement.",
+    "polling": "Talarico 47, Paxton 44 (post-runoff poll, May 2026). Toss-up at Cook; Lean D at Silver Bulletin.",
+    "sources": [
+      {
+        "label": "Texas Senate polling after GOP runoff",
+        "url": "https://thehill.com/homenews/campaign/5902035-texas-senate-race-poll/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/K_Paxton.jpg/330px-K_Paxton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/K_Paxton.jpg/330px-K_Paxton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://kenpaxton.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ken_Paxton",
+    "ballotpedia": "https://ballotpedia.org/Ken_Paxton",
+    "twitter": "KenPaxtonTX",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "talarico",
+    "name": "James Talarico",
+    "wiki": "James_Talarico",
+    "state": "TX",
+    "party": "D",
+    "status": "Open-seat nominee (state Rep.)",
+    "race": "Texas",
+    "rating": "Toss-up",
+    "trump": false,
+    "polling": "Leads Paxton 47-44 in post-runoff polling; ~1/3 of Cornyn runoff voters said they would back the Democrat.",
+    "sources": [
+      {
+        "label": "Texas Senate polling after GOP runoff",
+        "url": "https://thehill.com/homenews/campaign/5902035-texas-senate-race-poll/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://jamestalarico.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/James_Talarico",
+    "ballotpedia": "https://ballotpedia.org/James_Talarico",
+    "twitter": "jamestalarico",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "rogers",
+    "name": "Mike Rogers",
+    "wiki": "Mike_Rogers_(Michigan_politician)",
+    "state": "MI",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "Michigan",
+    "rating": "Toss-up",
+    "trump": true,
+    "polling": "Toss-up at Cook and Fox; Lean D at DDHQ, Economist, IE, Silver, Split Ticket.",
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mike_Rogers_in_November_2019_%283x4_cropped%29.jpg/330px-Mike_Rogers_in_November_2019_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mike_Rogers_in_November_2019_%283x4_cropped%29.jpg/330px-Mike_Rogers_in_November_2019_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)",
+    "ballotpedia": "https://ballotpedia.org/Mike_Rogers",
+    "twitter": "MikeRogersForMI",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "elsayed",
+    "name": "Abdul El-Sayed",
+    "wiki": "Abdul_El-Sayed",
+    "state": "MI",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Michigan",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg/330px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg/330px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://abdulformichigan.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+    "ballotpedia": "https://ballotpedia.org/Abdul_El-Sayed",
+    "twitter": "AbdulElSayed",
+    "bluesky": "abdulelsayed.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "sununu",
+    "name": "John E. Sununu",
+    "wiki": "John_E._Sununu",
+    "state": "NH",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "New Hampshire",
+    "rating": "Toss-up",
+    "trump": null,
+    "iran": "Says he disagrees with Trump's handling of the Iran war and with his tariff policy.",
+    "distancing": "Yes — disagrees on Iran & tariffs; not attending Trump's convention.",
+    "polling": "Toss-up at Cook/IE; Likely D at several other forecasters.",
+    "sources": [
+      {
+        "label": "Republicans distancing from Trump (Sep 2026)",
+        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/22/republican-candidates-distance-themselves-from-trump-before-midterms"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/John_E._Sununu.jpg/330px-John_E._Sununu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/John_E._Sununu.jpg/330px-John_E._Sununu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_E._Sununu",
+    "ballotpedia": "https://ballotpedia.org/John_E._Sununu",
+    "twitter": "JohnSununu",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House, 427-1).",
+    "id": "pappas",
+    "name": "Chris Pappas",
+    "wiki": "Chris_Pappas",
+    "state": "NH",
+    "party": "D",
+    "status": "Open-seat nominee (current U.S. Rep.)",
+    "race": "New Hampshire",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "P000614",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/P000614.jpg",
+    "photoFallback": null,
+    "website": "https://pappas.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Chris_Pappas",
+    "ballotpedia": "https://ballotpedia.org/Chris_Pappas",
+    "twitter": "RepChrisPappas",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "whatley",
+    "name": "Michael Whatley",
+    "wiki": "Michael_Whatley",
+    "state": "NC",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "North Carolina",
+    "rating": "Lean D",
+    "trump": true,
+    "polling": "Lean D / Likely D at major forecasters (open seat, Tillis retiring).",
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Whatley",
+    "ballotpedia": "https://ballotpedia.org/Michael_Whatley",
+    "twitter": "whatleyncgop",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "cooper",
+    "name": "Roy Cooper",
+    "wiki": "Roy_Cooper",
+    "state": "NC",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "North Carolina",
+    "rating": "Lean D",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg/330px-Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg/330px-Roy_Cooper_at_Roy_Cooper_Rally_April_2026-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.roycooper.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roy_Cooper",
+    "ballotpedia": "https://ballotpedia.org/Roy_Cooper",
+    "twitter": "RoyCooperNC",
+    "bluesky": "roycoopernc.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Senate passed the Epstein Files Transparency Act by unanimous consent (Nov 2025).",
+    "id": "marshall",
+    "name": "Roger Marshall",
+    "wiki": "Roger_Marshall",
+    "state": "KS",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Kansas",
+    "rating": "Lean R",
+    "trump": true,
+    "iran": "Voted NO on the Sep 24 war-powers resolution.",
+    "polling": "Lean R at Cook, Fox, IE; a Toss-up at The Economist.",
+    "sources": [
+      {
+        "label": "Senate Iran war-powers votes (Jun 24 & Sep 24, 2026)",
+        "url": "https://thehill.com/homenews/senate/5876248-senate-vote-war-powers-iran/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "M001198",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/M001198.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Roger_Marshall_117th_Congress_portrait.jpg/330px-Roger_Marshall_117th_Congress_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.marshall.senate.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Marshall",
+    "ballotpedia": "https://ballotpedia.org/Roger_Marshall",
+    "twitter": "SenatorMarshall",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "hamilton",
+    "name": "Adam Hamilton",
+    "wiki": null,
+    "state": "KS",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Kansas",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": null,
+    "ballotpedia": "https://ballotpedia.org/Adam_Hamilton",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": "Senate passed the Epstein Files Transparency Act by unanimous consent (Nov 2025).",
+    "id": "ricketts",
+    "name": "Pete Ricketts",
+    "wiki": "Pete_Ricketts",
+    "state": "NE",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Nebraska",
+    "rating": "Lean R",
+    "trump": true,
+    "iran": "Voted NO on the Sep 24 war-powers resolution.",
+    "polling": "Lean R to Likely R; one forecaster rates Toss-up.",
+    "sources": [
+      {
+        "label": "Senate Iran war-powers votes (Jun 24 & Sep 24, 2026)",
+        "url": "https://thehill.com/homenews/senate/5876248-senate-vote-war-powers-iran/"
+      },
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": "R000618",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/R000618.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg/330px-Sen._Pete_Ricketts_official_portrait%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.ricketts.senate.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pete_Ricketts",
+    "ballotpedia": "https://ballotpedia.org/Pete_Ricketts",
+    "twitter": "SenatorRicketts",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "osborn",
+    "name": "Dan Osborn",
+    "wiki": "Dan_Osborn",
+    "state": "NE",
+    "party": "I",
+    "status": "Challenger (independent)",
+    "race": "Nebraska",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report Senate ratings",
+        "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Osborn_Headshot_2_%28cropped%29.jpg/330px-Osborn_Headshot_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Osborn_Headshot_2_%28cropped%29.jpg/330px-Osborn_Headshot_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://osbornforsenate.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dan_Osborn",
+    "ballotpedia": "https://ballotpedia.org/Dan_Osborn",
+    "twitter": "OsbornForNE",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "dgraham",
+    "name": "Darline Graham",
+    "wiki": null,
+    "state": "SC",
+    "party": "R",
+    "status": "Incumbent (appointed)",
+    "race": "South Carolina",
+    "rating": "Lean R",
+    "trump": true,
+    "polling": "Lean R to Likely R. Won Aug 25 runoff over Rep. Ralph Norman with Trump's support.",
+    "sources": [
+      {
+        "label": "South Carolina Senate race (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+      }
+    ],
+    "bioguide": "G000608",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/G000608.jpg",
+    "photoFallback": null,
+    "website": "https://www.dgraham.senate.gov",
+    "wikiUrl": null,
+    "ballotpedia": "https://ballotpedia.org/Darline_Graham",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "office": "Senate",
+    "epstein": null,
+    "id": "andrews",
+    "name": "Annie Andrews",
+    "wiki": "Annie_Andrews",
+    "state": "SC",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "South Carolina",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "South Carolina Senate race (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Andrews",
+    "ballotpedia": "https://ballotpedia.org/Annie_Andrews",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "jackson-ga",
+    "name": "Rick Jackson",
+    "wiki": "Rick_Jackson_(businessman)",
+    "office": "Governor",
+    "state": "GA",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "Georgia",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rick_Jackson_%28cropped%29.png/330px-Rick_Jackson_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rick_Jackson_%28cropped%29.png/330px-Rick_Jackson_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://rickjackson.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rick_Jackson_(businessman)",
+    "ballotpedia": "https://ballotpedia.org/Rick_Jackson",
+    "twitter": "RickJacksonGA",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "bottoms",
+    "name": "Keisha Lance Bottoms",
+    "wiki": "Keisha_Lance_Bottoms",
+    "office": "Governor",
+    "state": "GA",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Georgia",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Keisha_Lance_Bottoms.jpg/330px-Keisha_Lance_Bottoms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Keisha_Lance_Bottoms.jpg/330px-Keisha_Lance_Bottoms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.keishaforgovernor.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Keisha_Lance_Bottoms",
+    "ballotpedia": "https://ballotpedia.org/Keisha_Lance_Bottoms",
+    "twitter": "KeishaBottoms",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "lombardo",
+    "name": "Joe Lombardo",
+    "wiki": "Joe_Lombardo",
+    "office": "Governor",
+    "state": "NV",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Nevada",
+    "rating": "Toss-up",
+    "trump": true,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/CES_2026_-_Joe_Lombardo_06%28cropped%29.jpg/330px-CES_2026_-_Joe_Lombardo_06%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/CES_2026_-_Joe_Lombardo_06%28cropped%29.jpg/330px-CES_2026_-_Joe_Lombardo_06%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Joe_Lombardo",
+    "ballotpedia": "https://ballotpedia.org/Joe_Lombardo",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "ford",
+    "name": "Aaron Ford",
+    "wiki": "Aaron_D._Ford",
+    "office": "Governor",
+    "state": "NV",
+    "party": "D",
+    "status": "Challenger (state AG)",
+    "race": "Nevada",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg/330px-Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg/330px-Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Aaron_Ford_(Nevada_politician)",
+    "ballotpedia": "https://ballotpedia.org/Aaron_Ford",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "ramaswamy",
+    "name": "Vivek Ramaswamy",
+    "wiki": "Vivek_Ramaswamy",
+    "office": "Governor",
+    "state": "OH",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "Ohio",
+    "rating": "Toss-up",
+    "trump": true,
+    "antiDei": true,
+    "polling": "Described as deadlocked with Amy Acton.",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg/330px-Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg/330px-Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://www.vivekramaswamy.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vivek_Ramaswamy",
+    "ballotpedia": "https://ballotpedia.org/Vivek_Ramaswamy",
+    "twitter": "VivekGRamaswamy",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null
+  },
+  {
+    "id": "acton",
+    "name": "Amy Acton",
+    "wiki": "Amy_Acton",
+    "office": "Governor",
+    "state": "OH",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Ohio",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://actonforgovernor.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Amy_Acton",
+    "ballotpedia": "https://ballotpedia.org/Amy_Acton",
+    "twitter": "amyactonoh",
+    "bluesky": "amyactonoh.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "tiffany",
+    "name": "Tom Tiffany",
+    "wiki": "Tom_Tiffany",
+    "office": "Governor",
+    "state": "WI",
+    "party": "R",
+    "status": "Open-seat nominee (current U.S. Rep.)",
+    "race": "Wisconsin",
+    "rating": "Toss-up",
+    "trump": true,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "T000165",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/T000165.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Tom_Tiffany.jpg/330px-Tom_Tiffany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://tiffany.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tom_Tiffany",
+    "ballotpedia": "https://ballotpedia.org/Tom_Tiffany",
+    "twitter": "RepTiffany",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "id": "crowley",
+    "name": "David Crowley",
+    "wiki": "David_Crowley_(politician)",
+    "office": "Governor",
+    "state": "WI",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Wisconsin",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_Crowley",
+    "ballotpedia": "https://ballotpedia.org/David_Crowley",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "kreiss-tomkins",
+    "name": "Jonathan Kreiss-Tomkins",
+    "wiki": "Jonathan_Kreiss-Tomkins",
+    "office": "Governor",
+    "state": "AK",
+    "party": "D",
+    "status": "Top-four finalist (ranked-choice)",
+    "race": "Alaska",
+    "rating": "Toss-up",
+    "trump": false,
+    "polling": "Led the Aug 18 primary with 22.5%.",
+    "sources": [
+      {
+        "label": "Alaska governor primary results (Alaska Beacon)",
+        "url": "https://alaskabeacon.com/2026/08/18/jkt-begich-wilson-and-bronson-lead-early-in-alaskas-primary-for-governor/"
+      },
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/JKTphoto_%28cropped%29.jpg/330px-JKTphoto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/JKTphoto_%28cropped%29.jpg/330px-JKTphoto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jonathan_Kreiss-Tomkins",
+    "ballotpedia": "https://ballotpedia.org/Jonathan_Kreiss-Tomkins",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "wilson-ak",
+    "name": "Bernadette Wilson",
+    "wiki": "Bernadette_Wilson",
+    "office": "Governor",
+    "state": "AK",
+    "party": "R",
+    "status": "Top-four finalist (ranked-choice)",
+    "race": "Alaska",
+    "rating": "Toss-up",
+    "polling": "Finished third in the primary with 10%.",
+    "sources": [
+      {
+        "label": "Alaska governor primary results (Alaska Beacon)",
+        "url": "https://alaskabeacon.com/2026/08/18/jkt-begich-wilson-and-bronson-lead-early-in-alaskas-primary-for-governor/"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
+    "ballotpedia": "https://ballotpedia.org/Bernadette_Wilson",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "bronson",
+    "name": "Dave Bronson",
+    "wiki": "Dave_Bronson",
+    "office": "Governor",
+    "state": "AK",
+    "party": "R",
+    "status": "Top-four finalist (ranked-choice)",
+    "race": "Alaska",
+    "rating": "Toss-up",
+    "polling": "Finished fourth in the primary with 8.1%.",
+    "sources": [
+      {
+        "label": "Alaska governor primary results (Alaska Beacon)",
+        "url": "https://alaskabeacon.com/2026/08/18/jkt-begich-wilson-and-bronson-lead-early-in-alaskas-primary-for-governor/"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dave_Bronson_March_2022.jpg/330px-Dave_Bronson_March_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dave_Bronson_March_2022.jpg/330px-Dave_Bronson_March_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dave_Bronson",
+    "ballotpedia": "https://ballotpedia.org/Dave_Bronson",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "lahn",
+    "name": "Zach Lahn",
+    "wiki": null,
+    "office": "Governor",
+    "state": "IA",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "Iowa",
+    "rating": "Lean D",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": null,
+    "ballotpedia": "https://ballotpedia.org/Zach_Lahn",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "sand",
+    "name": "Rob Sand",
+    "wiki": "Rob_Sand",
+    "office": "Governor",
+    "state": "IA",
+    "party": "D",
+    "status": "Open-seat nominee (state auditor)",
+    "race": "Iowa",
+    "rating": "Lean D",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rob_Sand_campaign_headshot_%28cropped_1%29.jpg/330px-Rob_Sand_campaign_headshot_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rob_Sand_campaign_headshot_%28cropped_1%29.jpg/330px-Rob_Sand_campaign_headshot_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://robsand.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rob_Sand",
+    "ballotpedia": "https://ballotpedia.org/Rob_Sand",
+    "twitter": "RobSandIA",
+    "bluesky": "robsandia.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "biggs",
+    "name": "Andy Biggs",
+    "wiki": "Andy_Biggs",
+    "office": "Governor",
+    "state": "AZ",
+    "party": "R",
+    "status": "Challenger (current U.S. Rep.)",
+    "race": "Arizona",
+    "rating": "Lean D",
+    "trump": true,
+    "epstein": "House member; voted YES on the Epstein Files Transparency Act (427-1).",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "B001302",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/B001302.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Andy_Biggs_2025.jpg/330px-Andy_Biggs_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://biggs.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Andy_Biggs",
+    "ballotpedia": "https://ballotpedia.org/Andy_Biggs",
+    "twitter": "RepAndyBiggsAZ",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "id": "hobbs",
+    "name": "Katie Hobbs",
+    "wiki": "Katie_Hobbs",
+    "office": "Governor",
+    "state": "AZ",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "Arizona",
+    "rating": "Lean D",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Katie_Hobbs_2026.jpg/330px-Katie_Hobbs_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Katie_Hobbs_2026.jpg/330px-Katie_Hobbs_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://www.katiehobbs.org/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Katie_Hobbs",
+    "ballotpedia": "https://ballotpedia.org/Katie_Hobbs",
+    "twitter": "GovernorHobbs",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "james",
+    "name": "John James",
+    "wiki": "John_James_(Michigan_politician)",
+    "office": "Governor",
+    "state": "MI",
+    "party": "R",
+    "status": "Open-seat nominee (current U.S. Rep.)",
+    "race": "Michigan",
+    "rating": "Lean D",
+    "epstein": "House member; voted YES on the Epstein Files Transparency Act (427-1).",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "J000307",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/J000307.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rep._John_James_official_photo%2C_118th_Congress.jpg/330px-Rep._John_James_official_photo%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://james.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)",
+    "ballotpedia": "https://ballotpedia.org/John_James",
+    "twitter": "RepJames",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "benson",
+    "name": "Jocelyn Benson",
+    "wiki": "Jocelyn_Benson",
+    "office": "Governor",
+    "state": "MI",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Michigan",
+    "rating": "Lean D",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/SOS_Jocelyn_Benson_web.jpg/330px-SOS_Jocelyn_Benson_web.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/SOS_Jocelyn_Benson_web.jpg/330px-SOS_Jocelyn_Benson_web.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://jocelynbenson.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jocelyn_Benson",
+    "ballotpedia": "https://ballotpedia.org/Jocelyn_Benson",
+    "twitter": "JocelynBenson",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "donalds",
+    "name": "Byron Donalds",
+    "wiki": "Byron_Donalds",
+    "office": "Governor",
+    "state": "FL",
+    "party": "R",
+    "status": "Open-seat nominee (current U.S. Rep.)",
+    "race": "Florida",
+    "rating": "Lean R",
+    "trump": true,
+    "epstein": "House member; voted YES on the Epstein Files Transparency Act (427-1).",
+    "polling": "Lean R at most; Toss-up at RCP & DDHQ.",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "D000032",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/D000032.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg/330px-Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://donalds.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Byron_Donalds",
+    "ballotpedia": "https://ballotpedia.org/Byron_Donalds",
+    "twitter": "RepDonaldsPress",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null
+  },
+  {
+    "id": "jolly",
+    "name": "David Jolly",
+    "wiki": "David_Jolly",
+    "office": "Governor",
+    "state": "FL",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Florida",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/David_Jolly_%283x4%29.jpg/330px-David_Jolly_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/David_Jolly_%283x4%29.jpg/330px-David_Jolly_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://jolly.house.gov/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_Jolly",
+    "ballotpedia": "https://ballotpedia.org/David_Jolly",
+    "twitter": "DavidJollyFL",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "masterson",
+    "name": "Ty Masterson",
+    "wiki": "Ty_Masterson",
+    "office": "Governor",
+    "state": "KS",
+    "party": "R",
+    "status": "Open-seat nominee",
+    "race": "Kansas",
+    "rating": "Lean R",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": "http://tymasterson.net/wp/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ty_Masterson",
+    "ballotpedia": "https://ballotpedia.org/Ty_Masterson",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "id": "holscher",
+    "name": "Cindy Holscher",
+    "wiki": "Cindy_Holscher",
+    "office": "Governor",
+    "state": "KS",
+    "party": "D",
+    "status": "Open-seat nominee",
+    "race": "Kansas",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": null,
+    "photoFallback": null,
+    "website": null,
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cindy_Holscher",
+    "ballotpedia": "https://ballotpedia.org/Cindy_Holscher",
+    "twitter": null,
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "abbott",
+    "name": "Greg Abbott",
+    "wiki": "Greg_Abbott",
+    "office": "Governor",
+    "state": "TX",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "Texas",
+    "rating": "Lean R",
+    "trump": true,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Greg_Abbott_at_NASA_2024_%28cropped%29.jpg/330px-Greg_Abbott_at_NASA_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Greg_Abbott_at_NASA_2024_%28cropped%29.jpg/330px-Greg_Abbott_at_NASA_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "http://www.gregabbott.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Greg_Abbott",
+    "ballotpedia": "https://ballotpedia.org/Greg_Abbott",
+    "twitter": "GovAbbott",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "hinojosa",
+    "name": "Gina Hinojosa",
+    "wiki": "Gina_Hinojosa",
+    "office": "Governor",
+    "state": "TX",
+    "party": "D",
+    "status": "Challenger (nominee)",
+    "race": "Texas",
+    "rating": "Lean R",
+    "trump": false,
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg/330px-Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg/330px-Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://ginafortexas.com/",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gina_Hinojosa",
+    "ballotpedia": "https://ballotpedia.org/Gina_Hinojosa",
+    "twitter": "GinaHinojosaTX",
+    "bluesky": "ginafortexas.bsky.social",
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null
+  },
+  {
+    "id": "ayotte",
+    "name": "Kelly Ayotte",
+    "wiki": "Kelly_Ayotte",
+    "office": "Governor",
+    "state": "NH",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "New Hampshire",
+    "rating": "Likely R",
+    "sources": [
+      {
+        "label": "2026 gubernatorial ratings (Wikipedia aggregate)",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections"
+      },
+      {
+        "label": "Republicans distancing from Trump (Sep 2026)",
+        "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/09/22/republican-candidates-distance-themselves-from-trump-before-midterms"
+      }
+    ],
+    "bioguide": null,
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NH_Governor_Kelly_Ayotte_%28December_11%2C_2025%29.jpg/330px-NH_Governor_Kelly_Ayotte_%28December_11%2C_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/NH_Governor_Kelly_Ayotte_%28December_11%2C_2025%29.jpg/330px-NH_Governor_Kelly_Ayotte_%28December_11%2C_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://kellyfornh.com",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kelly_Ayotte",
+    "ballotpedia": "https://ballotpedia.org/Kelly_Ayotte",
+    "twitter": "KellyAyotte",
+    "bluesky": null,
+    "votedObbb": null,
+    "medicaidCuts": null,
+    "medicalFundingCuts": null,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "gray",
+    "name": "Adam Gray",
+    "wiki": "Adam_Gray_(politician)",
+    "state": "CA",
+    "district": "13",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "CA-13",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "G000605",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/G000605.jpg",
+    "photoFallback": null,
+    "website": "https://gray.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Adam_Gray_(politician)",
+    "ballotpedia": "https://ballotpedia.org/Adam_Gray",
+    "twitter": "RepAdamGrayCA",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "tran",
+    "name": "Derek Tran",
+    "wiki": "Derek_Tran",
+    "state": "CA",
+    "district": "45",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "CA-45",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "T000491",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/T000491.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Rep._Derek_Tran_Official_Portrait.jpg/330px-Rep._Derek_Tran_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://tran.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Derek_Tran",
+    "ballotpedia": "https://ballotpedia.org/Derek_Tran",
+    "twitter": "repderektranca",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "vasquez",
+    "name": "Gabe Vasquez",
+    "wiki": "Gabe_Vasquez",
+    "state": "NM",
+    "district": "02",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "NM-02",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "V000136",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/V000136.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rep_Gabriel_Vasquez_Official_Portrait.jpg/330px-Rep_Gabriel_Vasquez_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://vasquez.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gabe_Vasquez",
+    "ballotpedia": "https://ballotpedia.org/Gabe_Vasquez",
+    "twitter": "RepGabeVasquez",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "gillen",
+    "name": "Laura Gillen",
+    "wiki": "Laura_Gillen",
+    "state": "NY",
+    "district": "04",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "NY-04",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "G000602",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/G000602.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Gillen_Laura_119th_Congress_%28cropped2%29.jpg/330px-Gillen_Laura_119th_Congress_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://gillen.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Laura_Gillen",
+    "ballotpedia": "https://ballotpedia.org/Laura_Gillen",
+    "twitter": "RepLauraGillen",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "davis",
+    "name": "Don Davis",
+    "wiki": "Don_Davis_(North_Carolina_politician)",
+    "state": "NC",
+    "district": "01",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "NC-01",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "D000230",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/D000230.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portrait_of_Congressman_Don_Davis.jpg/330px-Portrait_of_Congressman_Don_Davis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://dondavis.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)",
+    "ballotpedia": "https://ballotpedia.org/Don_Davis",
+    "twitter": "RepDonDavis",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "kaptur",
+    "name": "Marcy Kaptur",
+    "wiki": "Marcy_Kaptur",
+    "state": "OH",
+    "district": "09",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "OH-09",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "K000009",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/K000009.jpg",
+    "photoFallback": null,
+    "website": "https://kaptur.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marcy_Kaptur",
+    "ballotpedia": "https://ballotpedia.org/Marcy_Kaptur",
+    "twitter": "RepMarcyKaptur",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "sykes",
+    "name": "Emilia Sykes",
+    "wiki": "Emilia_Sykes",
+    "state": "OH",
+    "district": "13",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "OH-13",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "S001223",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/S001223.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rep._Emilia_Sykes_-_118th_Congress_%281.jpg/330px-Rep._Emilia_Sykes_-_118th_Congress_%281.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://sykes.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Emilia_Sykes",
+    "ballotpedia": "https://ballotpedia.org/Emilia_Sykes",
+    "twitter": "RepEmiliaSykes",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "gonzalez",
+    "name": "Vicente Gonzalez",
+    "wiki": "Vicente_Gonzalez",
+    "state": "TX",
+    "district": "34",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "TX-34",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "G000581",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/G000581.jpg",
+    "photoFallback": null,
+    "website": "https://gonzalez.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vicente_Gonzalez",
+    "ballotpedia": "https://ballotpedia.org/Vicente_Gonzalez",
+    "twitter": "RepGonzalez",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "gluesenkamp-perez",
+    "name": "Marie Gluesenkamp Perez",
+    "wiki": "Marie_Gluesenkamp_Perez",
+    "state": "WA",
+    "district": "03",
+    "party": "D",
+    "status": "Incumbent",
+    "race": "WA-03",
+    "rating": "Toss-up",
+    "trump": false,
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      }
+    ],
+    "bioguide": "G000600",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/G000600.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rep._Marie_Gluesenkamp_Perez_-_118th_Congress.jpg/330px-Rep._Marie_Gluesenkamp_Perez_-_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://gluesenkampperez.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marie_Gluesenkamp_Perez",
+    "ballotpedia": "https://ballotpedia.org/Marie_Gluesenkamp_Perez",
+    "twitter": "RepMGP",
+    "bluesky": "gluesenkampperez.house.gov",
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "ciscomani",
+    "name": "Juan Ciscomani",
+    "wiki": "Juan_Ciscomani",
+    "state": "AZ",
+    "district": "06",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "AZ-06",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "C001133",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/C001133.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Rep._Juan_Ciscomani_official_photo%2C_118th_Congress.jpg/330px-Rep._Juan_Ciscomani_official_photo%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://ciscomani.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Juan_Ciscomani",
+    "ballotpedia": "https://ballotpedia.org/Juan_Ciscomani",
+    "twitter": "RepCiscomani",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "evans",
+    "name": "Gabe Evans",
+    "wiki": "Gabe_Evans",
+    "state": "CO",
+    "district": "08",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "CO-08",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "E000300",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/E000300.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Rep._Gabe_Evans_official_photo%2C_119th_Congress.jpg/330px-Rep._Gabe_Evans_official_photo%2C_119th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://gabeevans.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gabe_Evans",
+    "ballotpedia": "https://ballotpedia.org/Gabe_Evans",
+    "twitter": "repgabeevans",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "miller-meeks",
+    "name": "Mariannette Miller-Meeks",
+    "wiki": "Mariannette_Miller-Meeks",
+    "state": "IA",
+    "district": "01",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "IA-01",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "M001215",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/M001215.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mariannette_Miller-Meeks_117th_U.S_Congress.jpg/330px-Mariannette_Miller-Meeks_117th_U.S_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://millermeeks.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks",
+    "ballotpedia": "https://ballotpedia.org/Mariannette_Miller-Meeks",
+    "twitter": "RepMMM",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "barrett",
+    "name": "Tom Barrett",
+    "wiki": "Tom_Barrett_(Michigan_politician)",
+    "state": "MI",
+    "district": "07",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "MI-07",
+    "rating": "Toss-up",
+    "iran": "One of four House Republicans (with Massie, Fitzpatrick, Davidson) who voted YES on both Iran war-powers resolutions (215-208 Jun 3; 214-208 Jul 23).",
+    "distancing": "Yes on Iran war powers; otherwise votes with the party on OBBB.",
+    "sources": [
+      {
+        "label": "House Iran war-powers votes (Jun 3 & Jul 23, 2026)",
+        "url": "https://time.com/article/2026/07/23/war-powers-resolution-iran-trump-senate-house-republicans/"
+      },
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "B001321",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/B001321.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tom_Barrett%2C_official_portrait_%28119th_Congress%29.jpg/330px-Tom_Barrett%2C_official_portrait_%28119th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://barrett.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)",
+    "ballotpedia": "https://ballotpedia.org/Tom_Barrett",
+    "twitter": "reptombarrett",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "mackenzie",
+    "name": "Ryan Mackenzie",
+    "wiki": "Ryan_Mackenzie",
+    "state": "PA",
+    "district": "07",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "PA-07",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "M001230",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/M001230.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Rep._Ryan_Mackenzie_official_photo%2C_119th_Congress.jpg/330px-Rep._Ryan_Mackenzie_official_photo%2C_119th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://mackenzie.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ryan_Mackenzie",
+    "ballotpedia": "https://ballotpedia.org/Ryan_Mackenzie",
+    "twitter": "RepMackenzie",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "perry",
+    "name": "Scott Perry",
+    "wiki": "Scott_Perry",
+    "state": "PA",
+    "district": "10",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "PA-10",
+    "rating": "Toss-up",
+    "sources": [
+      {
+        "label": "Cook Political Report House shifts (Sep 2026)",
+        "url": "https://www.washingtonpost.com/elections/2026/09/25/cook-political-report-moves-15-house-races-into-democrats-favor/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "P000605",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/P000605.jpg",
+    "photoFallback": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rep._Scott_Perry%2C_official_portrait%2C_118th_Congress.jpg/330px-Rep._Scott_Perry%2C_official_portrait%2C_118th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "website": "https://perry.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Scott_Perry",
+    "ballotpedia": "https://ballotpedia.org/Scott_Perry",
+    "twitter": "RepScottPerry",
+    "bluesky": null,
+    "votedObbb": true,
+    "medicaidCuts": true,
+    "medicalFundingCuts": true,
+    "antiDei": null,
+    "trump": null
+  },
+  {
+    "office": "House",
+    "epstein": "Voted YES on the Epstein Files Transparency Act (House passed 427-1, Nov 2025).",
+    "id": "fitzpatrick",
+    "name": "Brian Fitzpatrick",
+    "wiki": "Brian_Fitzpatrick_(politician)",
+    "state": "PA",
+    "district": "01",
+    "party": "R",
+    "status": "Incumbent",
+    "race": "PA-01",
+    "rating": null,
+    "iran": "Voted YES on both House Iran war-powers resolutions, citing the War Powers Act.",
+    "distancing": "Yes — voted against OBBB final passage and for Iran war-powers limits.",
+    "sources": [
+      {
+        "label": "House Iran war-powers votes (Jun 3 & Jul 23, 2026)",
+        "url": "https://time.com/article/2026/07/23/war-powers-resolution-iran-trump-senate-house-republicans/"
+      },
+      {
+        "label": "OBBB final passage roll calls (Senate 51-50, Jul 1 2025; House 218-214, Jul 3 2025)",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+      }
+    ],
+    "bioguide": "F000466",
+    "photo": "https://unitedstates.github.io/images/congress/450x550/F000466.jpg",
+    "photoFallback": null,
+    "website": "https://fitzpatrick.house.gov",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(politician)",
+    "ballotpedia": "https://ballotpedia.org/Brian_Fitzpatrick",
+    "twitter": "RepBrianFitz",
+    "bluesky": null,
+    "votedObbb": false,
+    "medicaidCuts": false,
+    "medicalFundingCuts": false,
+    "antiDei": null,
+    "trump": null
+  }
+]

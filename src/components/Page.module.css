@@ -1,0 +1,19 @@
+.page { max-width: 1100px; margin: 0 auto; }
+.lede { color: var(--muted); max-width: 70ch; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .75rem; margin: 1rem 0 1.5rem; }
+.tile { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: .9rem 1rem; display: grid; gap: .15rem; color: var(--text); text-decoration: none; }
+.tile strong { font-family: var(--serif); font-size: 1.7rem; } .tile span { color: var(--muted); font-size: .8rem; }
+.bullets { display: grid; gap: .6rem; padding-left: 1.2rem; max-width: 80ch; }
+.note { color: var(--muted); font-size: .9rem; }
+.cov { display: grid; gap: .35rem; max-width: 560px; }
+.cov > div { display: grid; grid-template-columns: 150px 1fr 40px; gap: .5rem; align-items: center; font-size: .8rem; }
+.bar { height: 8px; background: var(--surface-2); border-radius: 99px; overflow: hidden; } .bar i { display: block; height: 100%; background: var(--accent); }
+.cta { background: var(--accent); color: var(--accent-ink); border: 0; padding: .7rem 1.1rem; border-radius: 10px; font-weight: 600; cursor: pointer; }
+.scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); }
+.table { border-collapse: collapse; width: 100%; font-size: .85rem; background: var(--surface); }
+.table th, .table td { text-align: left; padding: .65rem .75rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+.table th { background: var(--surface-2); font-size: .72rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); white-space: nowrap; }
+.scroll .table td { min-width: 120px; } .scroll .table td:nth-child(2) { min-width: 260px; } .scroll .table td:nth-child(6), .scroll .table td:nth-child(7) { min-width: 220px; }
+.tag { font-size: .7rem; color: var(--muted); } .caveat { margin-top: .3rem; font-size: .78rem; color: var(--muted); font-style: italic; }
+.stack { display: flex; height: 28px; border-radius: 8px; overflow: hidden; margin: 1rem 0; } .stack i { display: block; height: 100%; }
+.dot { display: inline-block; width: .7rem; height: .7rem; border-radius: 50%; margin-right: .5rem; }

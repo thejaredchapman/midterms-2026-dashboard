@@ -1,0 +1,2 @@
+.img, .fallback { border-radius: 50%; object-fit: cover; object-position: top; border: 2px solid var(--ring); flex: none; background: var(--surface-2); }
+.fallback { display: inline-grid; place-items: center; font-weight: 700; font-size: .85rem; color: var(--ring); }

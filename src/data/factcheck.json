@@ -1,0 +1,19 @@
+{
+  "person": "Donald Trump",
+  "source": "PolitiFact Truth-O-Meter scorecard",
+  "sourceUrl": "https://www.politifact.com/personalities/donald-trump/",
+  "retrieved": "2026-10-01",
+  "ratings": [
+    { "key": "true", "label": "True", "count": 36 },
+    { "key": "mostly-true", "label": "Mostly True", "count": 87 },
+    { "key": "half-true", "label": "Half True", "count": 135 },
+    { "key": "mostly-false", "label": "Mostly False", "count": 225 },
+    { "key": "false", "label": "False", "count": 463 },
+    { "key": "pants-fire", "label": "Pants on Fire", "count": 229 }
+  ],
+  "caveats": [
+    "PolitiFact rates statements its editors choose to check — a selection of claims, not a random sample of everything said.",
+    "'Lie' implies intent, which a Truth-O-Meter rating does not assess. The 'truth-to-false' ratio below counts ratings only.",
+    "Ratings are PolitiFact's alone. Other fact-checkers (Washington Post Fact Checker, FactCheck.org) use different methods and counts."
+  ]
+}
