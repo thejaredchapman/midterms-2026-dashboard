@@ -2,6 +2,10 @@
 
 _Last updated 2026-10-01. Work through top to bottom._
 
+**Status:** pushed to https://github.com/thejaredchapman/midterms-2026-dashboard (public) and deployed to production at
+https://midterms-2026-dashboard.vercel.app. **No API keys are set on Vercel on purpose** (see A): the matrix, OBBB, fact-check and
+sources pages work; live news and AI summaries show a "not enabled on this deployment" notice until A is resolved.
+
 ## A. Blockers to settle BEFORE a public deploy
 - [ ] **NewsAPI terms.** The free Developer plan is development/testing only (no staging/production); production starts at $449/mo.
       Decide: pay, switch news source, or keep the app local-only. (GDELT is the free keyless fallback but 429s from some networks.)
@@ -27,13 +31,11 @@ _Last updated 2026-10-01. Work through top to bottom._
 - [ ] Re-check race facts that came from search summaries (Maine, South Carolina, Alaska nominees) before sharing.
 - [ ] Trump-endorsement list is from a secondary source (Washington Examiner tracker via a summarizing fetch tool) — spot-check a few.
 
-## C. Push to GitHub
-- [ ] Confirm repo name and **visibility (recommend private** until the terms issues in A are settled).
-- [ ] This folder is not a git repo yet: `git init`, confirm `.env` is ignored (`git check-ignore .env`), review `git status` for secrets, commit.
-- [ ] Create the GitHub repo and push (needs your OK — it publishes the code).
-- [ ] Commit messages end with the `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>` line.
+## C. Push to GitHub — DONE (public, `main`)
+- [x] Repo created public as `midterms-2026-dashboard`; `.env` ignored and secret scan clean before first commit.
+- [x] Commit messages end with the `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>` line.
 
-## D. Deploy to Vercel
-- [ ] `vercel link`, then set env vars in the Vercel project: `ANTHROPIC_API_KEY`, `NEWSAPI_KEY` (only if A is resolved), NOT `NEWS_SUPPLEMENT`.
-- [ ] Deploy a **preview** first (`vercel`), test `/api/news?name=Susan%20Collins&state=ME&office=Senate` and a summary, then `vercel --prod`.
-- [ ] Confirm `api/*.js` functions import `../server/*.js` correctly in the Vercel build (not yet tested on Vercel).
+## D. Deploy to Vercel — DONE (prod, no secrets)
+- [x] Linked + deployed with `vercel deploy --prod`; `api/news` and `api/summary` built as functions and respond (200 / 501 without keys).
+- [ ] After A is resolved: add env vars in Vercel (`ANTHROPIC_API_KEY`, `NEWSAPI_KEY` only if licensed for production; NEVER `NEWS_SUPPLEMENT`), then `vercel deploy --prod`.
+- [ ] Optional: connect the Vercel project to the GitHub repo so pushes auto-deploy.
