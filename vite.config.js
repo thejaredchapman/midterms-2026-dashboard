@@ -11,7 +11,7 @@ function devApi(env) {
       server.middlewares.use('/api/news', async (req, res) => {
         const q = new URL(req.url, 'http://x').searchParams;
         try {
-          const opts = { provider: env.NEWS_PROVIDER, newsApiKey: env.NEWSAPI_KEY, supplement: env.NEWS_SUPPLEMENT, state: q.get('state'), office: q.get('office') };
+          const opts = { provider: env.NEWS_PROVIDER, newsApiKey: env.NEWSAPI_KEY ?? env.NEWS_API, supplement: env.NEWS_SUPPLEMENT, state: q.get('state'), office: q.get('office') };
           const data = q.get('mode') === 'balanced' ? await getNews(q.get('name') ?? '', q.get('extra') ?? '', opts) : await getOutletNews(q.get('name') ?? '', opts);
           res.setHeader('content-type', 'application/json');
           res.end(JSON.stringify(data));
