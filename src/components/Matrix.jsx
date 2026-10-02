@@ -24,6 +24,48 @@ const COLUMNS = [
   { key: 'links', label: 'Links' },
 ];
 
+const Links = ({ c }) => (
+  <>
+    {c.website ? <a href={c.website} target="_blank" rel="noreferrer noopener">Website</a> : <span className={styles.unv}>No site found</span>}
+    {c.wikiUrl && <a href={c.wikiUrl} target="_blank" rel="noreferrer noopener">Wikipedia</a>}
+    <a href={c.ballotpedia} target="_blank" rel="noreferrer noopener">Ballotpedia</a>
+    {c.twitter && <a href={`https://x.com/${c.twitter}`} target="_blank" rel="noreferrer noopener">X</a>}
+  </>
+);
+
+const DETAILS = [
+  ['iran', 'Iran war'], ['epstein', 'Epstein files'], ['distancing', 'Distancing from Trump'],
+  ['strategy', 'Campaign strategy'], ['dataCenters', 'Data centers'], ['truthfulness', 'Truthfulness %'], ['alignment', 'Country vs. party'],
+];
+
+const Card = ({ c, onSelect }) => (
+  <article className={styles.card}>
+    <button className={styles.cardHead} onClick={() => onSelect(c)} aria-label={`Open ${c.name} details`}>
+      <Avatar c={c} />
+      <span className={styles.cardWho}>
+        <strong>{c.name}</strong>
+        <span className={styles.sub}><span className={styles[`p${c.party}`]}>{PARTY_LABEL[c.party]}</span> · {c.office}{c.district ? ` ${c.state}-${c.district}` : ` · ${c.state}`}</span>
+        <span className={styles.sub}>{c.status}</span>
+      </span>
+      <span className={styles.chev} aria-hidden="true">›</span>
+    </button>
+    <p className={styles.cardRating}><strong>{c.rating ?? '—'}</strong>{c.polling && <span className={styles.sub}> · {c.polling}</span>}</p>
+    <dl className={styles.flags}>
+      <div><dt>Trump</dt><dd><Flag value={c.trump} yes="Endorsed" no="Not endorsed" /></dd></div>
+      <div><dt>Medicaid cuts</dt><dd><Flag value={c.medicaidCuts} yes="Voted yes" no="Voted no" /></dd></div>
+      <div><dt>Other med. cuts</dt><dd><Flag value={c.medicalFundingCuts} yes="Voted yes" no="Voted no" /></dd></div>
+      <div><dt>Against DEI</dt><dd><Flag value={c.antiDei} /></dd></div>
+    </dl>
+    <details className={styles.more}>
+      <summary>Positions & stances</summary>
+      <dl className={styles.stances}>
+        {DETAILS.map(([k, l]) => <div key={k}><dt>{l}</dt><dd><Text v={c[k]} /></dd></div>)}
+      </dl>
+    </details>
+    <div className={styles.cardLinks}><Links c={c} /></div>
+  </article>
+);
+
 const Select = ({ label, value, onChange, options }) => (
   <label className={styles.sel}>
     <span>{label}</span>
@@ -37,6 +79,7 @@ const TRI = [['any', 'Any'], ['yes', 'Yes'], ['no', 'No'], ['unverified', 'Unver
 export default function Matrix({ data, onSelect, initialQuery = '' }) {
   const [f, setF] = useState({ query: initialQuery, party: 'all', office: 'all', rating: 'all', trump: 'any', medicaid: 'any', medical: 'any', dei: 'any' });
   const [sort, setSort] = useState({ key: 'rating', dir: 'asc' });
+  const [filtersOpen] = useState(() => window.matchMedia('(min-width: 761px)').matches);
   const set = (k) => (v) => setF((p) => ({ ...p, [k]: v }));
 
   const ratings = useMemo(() => [...new Set(data.map((c) => c.rating).filter(Boolean))], [data]);
@@ -51,6 +94,8 @@ export default function Matrix({ data, onSelect, initialQuery = '' }) {
           className={styles.search} type="search" value={f.query} onChange={(e) => set('query')(e.target.value)}
           placeholder="Search name, state, race, stance, party…" aria-label="Search candidates"
         />
+        <details className={styles.filterBox} open={filtersOpen}>
+        <summary>Filters{anyFilter ? ' (active)' : ''}</summary>
         <div className={styles.filters}>
           <Select label="Office" value={f.office} onChange={set('office')} options={[['all', 'All'], ['Senate', 'Senate'], ['Governor', 'Governor'], ['House', 'House']]} />
           <Select label="Party" value={f.party} onChange={set('party')} options={[['all', 'All'], ['R', 'Republican'], ['D', 'Democratic'], ['I', 'Independent']]} />
@@ -61,7 +106,13 @@ export default function Matrix({ data, onSelect, initialQuery = '' }) {
           <Select label="Against DEI" value={f.dei} onChange={set('dei')} options={TRI} />
           {anyFilter && <button className={styles.clear} onClick={() => setF({ query: '', party: 'all', office: 'all', rating: 'all', trump: 'any', medicaid: 'any', medical: 'any', dei: 'any' })}>Clear</button>}
         </div>
-        <p className={styles.count} role="status">{rows.length} of {data.length} candidates · click a row for news, posts & summaries</p>
+        </details>
+        <p className={styles.count} role="status">{rows.length} of {data.length} candidates · tap a candidate for news, posts & summaries</p>
+      </div>
+
+      <div className={styles.cards}>
+        {rows.map((c) => <Card key={c.id} c={c} onSelect={onSelect} />)}
+        {!rows.length && <p className={styles.empty}>No candidates match these filters.</p>}
       </div>
 
       <div className={styles.wrap}>
@@ -103,10 +154,7 @@ export default function Matrix({ data, onSelect, initialQuery = '' }) {
                 <td><Text v={c.truthfulness} /></td>
                 <td><Text v={c.alignment} /></td>
                 <td className={styles.links} onClick={(e) => e.stopPropagation()}>
-                  {c.website ? <a href={c.website} target="_blank" rel="noreferrer noopener">Website</a> : <span className={styles.unv}>No site found</span>}
-                  {c.wikiUrl && <a href={c.wikiUrl} target="_blank" rel="noreferrer noopener">Wikipedia</a>}
-                  <a href={c.ballotpedia} target="_blank" rel="noreferrer noopener">Ballotpedia</a>
-                  {c.twitter && <a href={`https://x.com/${c.twitter}`} target="_blank" rel="noreferrer noopener">X</a>}
+                  <Links c={c} />
                 </td>
               </tr>
             ))}
